@@ -5,4 +5,4 @@ This repository contains the following projects:
 2) GPU bench-marking - Image classification on objects using tensorflow ANN
 3) Image classification on fashion-mnist dataset - Performance based on number of hidden layers
 4) Customer churn prediction using ANN
-5) Bank customer churn prediction using ANN
+5) Bank customer churn prediction and Sampling Techniques using ANN
