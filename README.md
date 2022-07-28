@@ -6,3 +6,4 @@ This repository contains the following projects:
 3) Image classification on fashion-mnist dataset - Performance based on number of hidden layers
 4) Customer churn prediction using ANN
 5) Bank customer churn prediction and Sampling Techniques using ANN
+6) Data augmentation to fix overfitting for flower image classification dataset
