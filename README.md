@@ -8,3 +8,5 @@ This repository contains the following projects:
 5) Bank customer churn prediction and Sampling Techniques using ANN
 6) Data augmentation to fix overfitting for flower image classification dataset
 7) Transfer Learning Basics
+8) Word2Vec in gensim
+9) Tensorflow Input Pipeline
