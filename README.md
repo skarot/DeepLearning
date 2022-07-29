@@ -7,3 +7,4 @@ This repository contains the following projects:
 4) Customer churn prediction using ANN
 5) Bank customer churn prediction and Sampling Techniques using ANN
 6) Data augmentation to fix overfitting for flower image classification dataset
+7) Transfer Learning Basics
